@@ -45,3 +45,5 @@ group :test, :development do
     gem 'rspec'
     gem 'rspec-rails'
 end
+
+gem 'bcrypt-ruby', '3.0.1'
